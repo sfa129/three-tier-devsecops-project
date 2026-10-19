@@ -5,16 +5,6 @@ Deploy a React + Django + PostgreSQL application to **Amazon EKS** with a securi
 and **Argo CD** deploys them GitOps-style. **Prometheus** and **Grafana** watch the cluster.
 The Jenkins server itself is provisioned with **Terraform**.
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1HEefoqUWmztGZ_Laq28sw)](https://youtube.com/@codewithmuh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rashid-blue)](https://www.linkedin.com/in/muhammadrashid-daha/)
-[![Medium](https://img.shields.io/badge/Medium-codewithmuh-black)](https://medium.com/@codewithmuh)
-[![secret-scan](https://github.com/codewithmuh/three-tier-devsecops-project/actions/workflows/secret-scan.yml/badge.svg)](https://github.com/codewithmuh/three-tier-devsecops-project/actions/workflows/secret-scan.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-📺 **Video walkthrough:** https://youtu.be/UNF5JdUEfh8 &nbsp;·&nbsp; 📝 **Article:** [Deploying a three-tier DevSecOps web application on AWS EKS](https://www.linkedin.com/pulse/deploying-three-tier-devsecops-web-application-aws-eks-rashid-x7f9f/)
-
-<img width="1280" height="720" alt="Three-tier DevSecOps project on AWS EKS" src="https://github.com/user-attachments/assets/a73bdc63-28f2-4a53-97ce-36313d8e412b" />
-
 ---
 
 ## Architecture
