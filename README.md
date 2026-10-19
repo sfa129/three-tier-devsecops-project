@@ -236,14 +236,7 @@ aws ecr delete-repository --repository-name frontend --force
 
 Also delete the EC2 key pair if you created one only for this project.
 
-## Author
+## Tribute
 
 **Muhammad Rashid** — DevOps & cloud engineer, AWS Community Builder.
-I teach AWS, Kubernetes, DevOps and AI engineering on [YouTube @codewithmuh](https://youtube.com/@codewithmuh).
-More at [codewithmuh.com](https://codewithmuh.com) and [devopsbymuh.com](https://devopsbymuh.com).
 
-If this project helped you, a ⭐ on the repo helps others find it.
-
-## License
-
-[MIT](LICENSE)
